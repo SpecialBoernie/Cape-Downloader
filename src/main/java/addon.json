@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Cape Downloader",
+  "author": "SocketConnection",
+  "version": 1,
+  "icon": "",
+  "description": "With this addon you can download capes from other players.\n!cape <Player>",
+  "category": 2,
+  "mainClass": "net.capedownloader.src.Main"
+}
